@@ -1,0 +1,13 @@
+git init        //initializing git
+
+git add .       //adding files to the stage
+
+git commit -m "your message"     ///commiting files to github with a message
+
+git status      //check status of the files
+
+git restore --staged .  //removing files from the stage
+
+git log         //checking all the commits history you have made
+
+git reset (logNo)     //deleting commits
